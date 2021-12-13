@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Musicalog.Web.API\Mucicalog.Domain\bin\Debug\netcoreapp2.1\Musicalog.Domain.deps.json
+C:\Users\User\source\repos\Musicalog.Web.API\Mucicalog.Domain\bin\Debug\netcoreapp2.1\Musicalog.Domain.dll
+C:\Users\User\source\repos\Musicalog.Web.API\Mucicalog.Domain\bin\Debug\netcoreapp2.1\Musicalog.Domain.pdb
+C:\Users\User\source\repos\Musicalog.Web.API\Mucicalog.Domain\obj\Debug\netcoreapp2.1\Mucicalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Musicalog.Web.API\Mucicalog.Domain\obj\Debug\netcoreapp2.1\Mucicalog.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Musicalog.Web.API\Mucicalog.Domain\obj\Debug\netcoreapp2.1\Mucicalog.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\Musicalog.Web.API\Mucicalog.Domain\obj\Debug\netcoreapp2.1\Musicalog.Domain.dll
+C:\Users\User\source\repos\Musicalog.Web.API\Mucicalog.Domain\obj\Debug\netcoreapp2.1\Musicalog.Domain.pdb

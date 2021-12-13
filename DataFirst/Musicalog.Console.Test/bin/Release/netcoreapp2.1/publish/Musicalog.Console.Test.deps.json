@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Musicalog.Console.Test/1.0.0": {
+        "dependencies": {
+          "Musicalog.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Musicalog.Console.Test.dll": {}
+        }
+      },
+      "Musicalog.Domain/1.0.0": {
+        "runtime": {
+          "Musicalog.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Musicalog.Console.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Musicalog.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

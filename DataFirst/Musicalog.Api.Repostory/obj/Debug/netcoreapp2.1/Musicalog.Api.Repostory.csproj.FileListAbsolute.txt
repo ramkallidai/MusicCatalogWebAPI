@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\bin\Debug\netcoreapp2.1\Musicalog.Api.Repostory.deps.json
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\bin\Debug\netcoreapp2.1\Musicalog.Api.Repostory.dll
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\obj\Debug\netcoreapp2.1\Musicalog.Api.Repostory.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\obj\Debug\netcoreapp2.1\Musicalog.Api.Repostory.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\obj\Debug\netcoreapp2.1\Musicalog.Api.Repostory.AssemblyInfo.cs
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\obj\Debug\netcoreapp2.1\Musicalog.Api.Repostory.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\bin\Debug\netcoreapp2.1\Musicalog.Api.Repostory.runtimeconfig.json
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\bin\Debug\netcoreapp2.1\Musicalog.Api.Repostory.runtimeconfig.dev.json
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\bin\Debug\netcoreapp2.1\Musicalog.Api.Repostory.pdb
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\obj\Debug\netcoreapp2.1\Musicalog.Api.Repostory.dll
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\obj\Debug\netcoreapp2.1\Musicalog.Api.Repostory.pdb

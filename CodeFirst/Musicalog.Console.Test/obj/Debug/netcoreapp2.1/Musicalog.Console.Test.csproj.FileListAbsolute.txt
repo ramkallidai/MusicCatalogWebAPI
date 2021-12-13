@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Console.Test\obj\Debug\netcoreapp2.1\Musicalog.Console.Test.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Console.Test\obj\Debug\netcoreapp2.1\Musicalog.Console.Test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Console.Test\obj\Debug\netcoreapp2.1\Musicalog.Console.Test.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Console.Test\obj\Debug\netcoreapp2.1\Musicalog.Console.Test.AssemblyInfo.cs
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Console.Test\bin\Debug\netcoreapp2.1\Musicalog.Console.Test.deps.json
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Console.Test\bin\Debug\netcoreapp2.1\Musicalog.Console.Test.runtimeconfig.json
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Console.Test\bin\Debug\netcoreapp2.1\Musicalog.Console.Test.runtimeconfig.dev.json
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Console.Test\bin\Debug\netcoreapp2.1\Musicalog.Console.Test.dll
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Console.Test\bin\Debug\netcoreapp2.1\Musicalog.Console.Test.pdb
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Console.Test\bin\Debug\netcoreapp2.1\Musicalog.Domain.dll
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Console.Test\bin\Debug\netcoreapp2.1\Musicalog.Domain.pdb
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Console.Test\obj\Debug\netcoreapp2.1\Musicalog.Console.Test.csproj.CopyComplete
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Console.Test\obj\Debug\netcoreapp2.1\Musicalog.Console.Test.dll
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Console.Test\obj\Debug\netcoreapp2.1\Musicalog.Console.Test.pdb

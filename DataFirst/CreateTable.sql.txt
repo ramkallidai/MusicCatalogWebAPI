@@ -1,0 +1,9 @@
+
+CREATE TABLE [dbo].Album
+(
+	[AlbumID] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
+    [Title] NVARCHAR(100) NULL, 
+    [Artist] NVARCHAR(100) NULL, 
+    [MediaType] INT NULL, 
+    [Stock] INT NULL
+)

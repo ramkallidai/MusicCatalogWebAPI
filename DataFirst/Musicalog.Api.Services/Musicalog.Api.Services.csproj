@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mucicalog.Domain\Musicalog.Domain.csproj" />
+    <ProjectReference Include="..\Musicalog.Api.Repostory\Musicalog.Api.EFCore.csproj" />
+  </ItemGroup>
+
+</Project>

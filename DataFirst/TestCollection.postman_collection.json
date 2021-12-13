@@ -1,0 +1,154 @@
+{
+	"info": {
+		"_postman_id": "2b566723-1864-4c41-b395-5fe5854c79e2",
+		"name": "TestCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:53877/api/album/GetAlbumsByArtist",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:53877/api/album/getalbums",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53877",
+					"path": [
+						"api",
+						"album",
+						"getalbums"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:53877/api/album/GetAlbumsByArtist",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://localhost:53877/api/album/GetAlbumsByArtist?Artist=Beatles",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53877",
+					"path": [
+						"api",
+						"album",
+						"GetAlbumsByArtist"
+					],
+					"query": [
+						{
+							"key": "Artist",
+							"value": "Beatles"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:53877/api/album/NewAlbum",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"albumName\":\"The Beatles\",\"storageType\":1,\"storage\":50}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:53877/api/album/NewAlbum",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53877",
+					"path": [
+						"api",
+						"album",
+						"NewAlbum"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:53877/api/album/AmendAlbum",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"AlbumId\" : 1,\"albumName\":\"The Beatles\",\"storageType\":1,\"storage\":50}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:53877/api/album/AmendAlbum",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53877",
+					"path": [
+						"api",
+						"album",
+						"AmendAlbum"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:53877/api/album/RemoveAlbum",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"AlbumId\" : 1,\"albumName\":\"The Beatles\",\"storageType\":1,\"storage\":50}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:53877/api/album/RemoveAlbum",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53877",
+					"path": [
+						"api",
+						"album",
+						"RemoveAlbum"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

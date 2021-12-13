@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Test\bin\Debug\Musicalog.Api.Test.exe.config
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Test\bin\Debug\Musicalog.Api.Test.exe
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Test\bin\Debug\Musicalog.Api.Test.pdb
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Test\obj\Debug\Musicalog.Api.Test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Test\obj\Debug\Musicalog.Api.Test.exe
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Test\obj\Debug\Musicalog.Api.Test.pdb
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Test\obj\Debug\Musicalog.Api.Test.csprojAssemblyReference.cache

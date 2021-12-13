@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Services\bin\Debug\netcoreapp2.1\Musicalog.Api.Services.deps.json
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Services\bin\Debug\netcoreapp2.1\Musicalog.Api.Services.dll
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Services\bin\Debug\netcoreapp2.1\Musicalog.Api.Services.pdb
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Services\bin\Debug\netcoreapp2.1\Musicalog.Api.EFCore.dll
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Services\bin\Debug\netcoreapp2.1\Musicalog.Domain.dll
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Services\bin\Debug\netcoreapp2.1\Musicalog.Domain.pdb
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Services\bin\Debug\netcoreapp2.1\Musicalog.Api.EFCore.pdb
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Services\obj\Debug\netcoreapp2.1\Musicalog.Api.Services.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Services\obj\Debug\netcoreapp2.1\Musicalog.Api.Services.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Services\obj\Debug\netcoreapp2.1\Musicalog.Api.Services.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Services\obj\Debug\netcoreapp2.1\Musicalog.Api.Services.AssemblyInfo.cs
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Services\obj\Debug\netcoreapp2.1\Musicalog.Api.Services.csproj.CopyComplete
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Services\obj\Debug\netcoreapp2.1\Musicalog.Api.Services.dll
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Services\obj\Debug\netcoreapp2.1\Musicalog.Api.Services.pdb

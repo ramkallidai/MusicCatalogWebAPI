@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\bin\Release\netcoreapp2.1\Musicalog.Api.EFCore.deps.json
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\bin\Release\netcoreapp2.1\Musicalog.Api.EFCore.runtimeconfig.json
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\bin\Release\netcoreapp2.1\Musicalog.Api.EFCore.runtimeconfig.dev.json
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\bin\Release\netcoreapp2.1\Musicalog.Api.EFCore.dll
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\bin\Release\netcoreapp2.1\Musicalog.Api.EFCore.pdb
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\bin\Release\netcoreapp2.1\Musicalog.Domain.dll
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\bin\Release\netcoreapp2.1\Musicalog.Domain.pdb
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\obj\Release\netcoreapp2.1\Musicalog.Api.EFCore.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\obj\Release\netcoreapp2.1\Musicalog.Api.EFCore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\obj\Release\netcoreapp2.1\Musicalog.Api.EFCore.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\obj\Release\netcoreapp2.1\Musicalog.Api.EFCore.AssemblyInfo.cs
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\obj\Release\netcoreapp2.1\Musicalog.Api.EFCore.csproj.CopyComplete
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\obj\Release\netcoreapp2.1\Musicalog.Api.EFCore.dll
+C:\Users\User\source\repos\Musicalog.Web.API\Musicalog.Api.Repostory\obj\Release\netcoreapp2.1\Musicalog.Api.EFCore.pdb
