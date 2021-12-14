@@ -43,12 +43,12 @@ namespace Musicalog.Api.EFCore.Repositories
 
         public async Task<IEnumerable<Domain.Models.Album>> GetAllAlbumsAsync()
         {
-            return await FindAll().OrderBy(o => o.Title).ToListAsync();
+            return await FindAll().Include(al=>al.Artist).OrderBy(o => o.Title).ToListAsync();
         }
 
-        public async Task<IEnumerable<Album>> GetAllAlbumsByArtistAsync(string artist)
+        public async Task<IEnumerable<Album>> GetAllAlbumsByArtistAsync(Guid artist)
         {
-            return await FindAll().Where(a=>a.Artist== artist).OrderBy(o => o.Title).ToListAsync();
+            return await FindAll().Include(ar=>ar.Artist).Where(a=>a.ArtistId == artist).OrderBy(o => o.Title).ToListAsync();
         }
 
         public async Task UpdateAlbumAsync(Album album)

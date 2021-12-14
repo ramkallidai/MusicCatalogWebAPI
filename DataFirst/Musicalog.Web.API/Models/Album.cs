@@ -1,9 +1,7 @@
-﻿using Musicalog.Domain.Enums;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Musicalog.Domain.Models
+namespace Musicalog.Web.API.Models
 {
     public partial class Album
     {

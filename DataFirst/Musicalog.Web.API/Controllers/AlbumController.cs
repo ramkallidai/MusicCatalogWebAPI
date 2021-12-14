@@ -7,6 +7,9 @@ using Microsoft.AspNetCore.Mvc;
 using Musicalog.Domain.Models;
 using Musicalog.Api.EFCore.Interfaces;
 using Musicalog.Api.EFCore.Repositories;
+using AutoMapper;
+using Musicalog.Web.API.DTO;
+
 namespace Musicalog.Web.API.Controllers
 {
     [Route("api/[controller]")]
@@ -14,26 +17,39 @@ namespace Musicalog.Web.API.Controllers
     public class AlbumController : ControllerBase
     {
         readonly IAlbumRepository _albumRepository;
+        private readonly IMapper _mapper;
 
-        public AlbumController(IAlbumRepository albumRepository)
+        public AlbumController(IAlbumRepository albumRepository, IMapper mapper)
         {
             _albumRepository = albumRepository;
+            _mapper = mapper;
         }
         [HttpGet("GetAlbums")]
-        public async Task<IEnumerable<Album>> GetAlbumsAsync()
+        public async Task<IActionResult> GetAlbumsAsync()
         {
             try
             {
-                return await _albumRepository.GetAllAlbumsAsync();
+                var list = await _albumRepository.GetAllAlbumsAsync();
+
+                var albums = new List<AlbumDTO>();
+                if (list != null)
+                {
+                    albums = _mapper.Map<List<AlbumDTO>>(list);
+                }
+                //return StatusCode(200, list);
+                return StatusCode(200, albums);
+                //return albums;
+                // return list;
             }
             catch (Exception ex)
             {
                 //Log the exception
-                return null;
+                //return null;
+                return StatusCode(500, ex.Message);
             }
         }
         [HttpGet("GetAlbumsByArtist")]
-        public async Task<IEnumerable<Album>> GetAlbumsByArtistAsync(string artist)
+        public async Task<IEnumerable<Album>> GetAlbumsByArtistAsync(Guid artist)
         {
             try
             {

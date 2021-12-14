@@ -1,10 +1,8 @@
 ﻿using System;
-using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Musicalog.Domain.Models;
 
-namespace Musicalog.Api.EFCore
+namespace Musicalog.Web.API.Models
 {
     public partial class MusicCatalogContext : DbContext
     {
@@ -60,5 +58,4 @@ namespace Musicalog.Api.EFCore
             });
         }
     }
-
 }

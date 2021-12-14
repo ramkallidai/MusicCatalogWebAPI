@@ -9,7 +9,7 @@ namespace Musicalog.Api.EFCore.Interfaces
     public interface IAlbumRepository : IGenericRepository<Album>
     {
         Task<IEnumerable<Album>> GetAllAlbumsAsync();
-        Task<IEnumerable<Album>> GetAllAlbumsByArtistAsync(string artist);
+        Task<IEnumerable<Album>> GetAllAlbumsByArtistAsync(Guid artist);
         Task<Album> GetAlbumByIdAsync(Guid albumId);
         Task CreateAlbumAsync(Album album);
         Task UpdateAlbumAsync(Album album);

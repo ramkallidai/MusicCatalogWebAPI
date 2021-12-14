@@ -6,6 +6,9 @@
 
   <ItemGroup>
     <Compile Remove="Controllers\AlbumController - Copy.cs" />
+    <Compile Remove="Models\Album.cs" />
+    <Compile Remove="Models\Artist.cs" />
+    <Compile Remove="Models\MusicCatalogContext.cs" />
   </ItemGroup>
 
   <ItemGroup>
@@ -13,6 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="2.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.4" />

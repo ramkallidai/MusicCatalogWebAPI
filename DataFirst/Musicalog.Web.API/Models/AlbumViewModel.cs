@@ -7,7 +7,5 @@ namespace Musicalog.Web.API.Models
 {
     public class AlbumViewModel
     {
-
-
     }
 }
